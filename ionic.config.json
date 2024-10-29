@@ -1,0 +1,7 @@
+{
+  "name": "AppPrak",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
