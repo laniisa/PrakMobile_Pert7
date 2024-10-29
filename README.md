@@ -3,7 +3,9 @@
  Nama  : SOLANI
  NIM   : H1D022033
 
-![image](https://github.com/user-attachments/assets/4e9b42da-45ef-4ff5-8cc2-d641d66c8cf4)
+
+## Screenshot
+![Screenshot of the App](hasil.jpeg)
 
 ## Deskripsi
 Proyek ini merupakan contoh penggunaan komponen `ion-card` pada halaman utama aplikasi Ionic untuk menampilkan nama dan NIM secara kreatif.
